@@ -6,7 +6,7 @@ namespace gitcoffee
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello to the World again from Coffee2!");
+            Console.WriteLine("Hello to the amended Coffee2");
         }
     }
 }
